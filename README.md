@@ -6,6 +6,19 @@ Poruszanie
 - myszka - obrót kamery
 
 
+Color coding przedmiotów:
+==========
+- zielony - przedmioty, które można podnieść
+  ![item1.png](Screens%2Fitem1.png)
+
+- żółty - przedmioty z interakcją
+  ![interactable1.png](Screens%2Finteractable1.png)
+
+- niebieski - znajdźki fabularne
+  ![item2.png](Screens%2Fitem2.png)
+
+
+
 Opis poziomu
 ============
 Blockout przedstawia 1wszą część poziomu, czyli ukrytą doline czarownicy.
@@ -16,6 +29,14 @@ Widok z góry:
 
 ![map.png](Screens%2Fmap.png)
 
+3 najważniejsze lokacje to:
+- dom czarownicy (z ogrodem i spiżąrnią)
+![house.png](Screens%2Fhouse.png)
+- fontanna a'la źródło mocy (fabularna znajdźka)
+![fountain.png](Screens%2Ffountain.png)
+- wejście do jaskini (cel poziomu)
+![CAVES.png](Screens%2FCAVES.png)
+
 Zaczynamy w domu czarownicy. Na mapie znajdują się 2 npc: jeden w domu, drugi przed jaskinią. W jaskini znajduje się przejście do kolejnej części poziomu.
 
 ![start.png](Screens%2Fstart.png)
@@ -23,15 +44,3 @@ Zaczynamy w domu czarownicy. Na mapie znajdują się 2 npc: jeden w domu, drugi 
 Zależało mi, aby wejście do jaskini było widoczny z domu czarownicy, aby gracz wiedział, że to jest cel, do którego powinien zmierzać. Dlatego prześwituje między górami i widać je z ogrodu. Natomiast 3ci budynek jest ukryta i niewidoczna bezpośrednio z chaty.
 
 ![garden2.png](Screens%2Fgarden2.png)
-
-Color coding przedmiotów:
--------------------------
-- zielony - przedmioty, które można podnieść
-  ![item1.png](Screens%2Fitem1.png)
-
-- żółty - przedmioty z interakcją
-  ![interactable1.png](Screens%2Finteractable1.png)
-
-- niebieski - znajdźki fabularne
-  ![item2.png](Screens%2Fitem2.png)
-
